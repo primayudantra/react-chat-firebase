@@ -1,4 +1,4 @@
-Hi! Prima here!]
+Hi! Prima here!
 
 This is example chat app using React and Firebase.
 
